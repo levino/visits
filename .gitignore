@@ -180,3 +180,4 @@ private/
 
 .vercel
 public/globals.css
+secrets.json
